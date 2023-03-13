@@ -1,0 +1,12 @@
+{
+    "output_file": "",
+    "headers": {
+        "User-Agent": ""
+    },
+    "cookies": {
+        "_holberton_intranet_session": "",
+        "remember_user_token": "",
+        "context_curriculum_id": "",
+        "timezone": ""
+    }
+}
